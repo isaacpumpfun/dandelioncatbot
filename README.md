@@ -1,5 +1,7 @@
 ![DANDELION CAT](./assets/banner.jpg)
 
+CA: soon
+
 # DANDELION CAT
 
 Solana Token Mass Distribution Script
