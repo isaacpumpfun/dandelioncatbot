@@ -1,6 +1,6 @@
 ![DANDELION CAT](./assets/banner.jpg)
 
-CA: FSkLWWiPcXn8pKV2dQvQDBUgGjYecjK3PPpdVJ3epump
+CA: soon
 
 # DANDELION CAT
 
